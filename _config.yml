@@ -11,7 +11,7 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-#linkedin: 'mylinkedin'
+linkedin: 'mylinkedin'
 instagram: 'myinsta'
 github-user: 'mygithub'
 #stack-overflow: ''
