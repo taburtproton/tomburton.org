@@ -15,8 +15,7 @@ favicon: 'favicon.ico'
 instagram: 'myinsta'
 github-user: 'mygithub'
 #stack-overflow: ''
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
+email: 'me@tomburton.org'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
@@ -60,7 +59,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/tomalburt
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -69,7 +68,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: https://github.com/taburtproton
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
@@ -135,5 +134,5 @@ social-links:
 
   - name: email
     url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
+    url-pattern: 'me@tomburton.org'
     icon-class: far fa-2x fa-envelope-open
