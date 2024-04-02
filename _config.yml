@@ -17,7 +17,7 @@ github-user: 'mygithub'
 #stack-overflow: ''
 email: 'me@tomburton.org'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [linkedin, instagram, email, github-user]
 
 # Yaml manifest of supported social links
 # Requirements:
