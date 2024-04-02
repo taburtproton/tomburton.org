@@ -2,11 +2,11 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Tom Burton'
+description: 'Product Support Manager - Clinical Documentation Specialist - Online Consultation.'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'avatar.jpeg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
